@@ -1,8 +1,7 @@
-# analysis/
+GW5
 
-Data and code behind Figures 2–6, Table 3 and the numbers in Section 4 of
-*What If the World Put Nuclear Power First? A Counterfactual Analysis with the
-EN-ROADS Climate Simulator*.
+Data and code behind Figures 2–6, Table 3 and the numbers in Section 4
+
 
 ## Contents
 
